@@ -1,0 +1,19 @@
+body {
+	background: black;
+	
+}
+p {
+	color:white;
+}
+img{
+	height: 35%;
+	width: 35%;
+}
+
+li a {
+	display:block;
+	color:white;
+	text-align: center;
+	padding: 8px 16px;
+	text-decoration: none;
+}
